@@ -1,3 +1,7 @@
 @charset "shift-Jis";
 
-body{color:#ffe5ff;}
+body {
+    background-color: pink;
+    color: black;
+  }
+  
