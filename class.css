@@ -1,6 +1,13 @@
 @charset "shift-Jis";
 
 body {
-    background-color:#ffe5ff;
+    background-color:#ffefff;
     color: black;
+ 
 }
+
+address{
+
+    color: bule;
+
+} 
