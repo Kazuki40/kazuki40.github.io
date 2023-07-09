@@ -1,21 +1,21 @@
 @charset "shift-Jis";
 
 body {
-    background-color:#fff4ff;
+    background-color: #fff4ff;
     color: black;
- 
+
 }
 
-address{
+address {
 
     color: #191970;
 
-} 
-
-#resurch_sub {
-font-size: small;
 }
 
-#license{
+#resurch_sub {
+    font-size: small;
+}
+
+#license {
     font-size: small;
 }
